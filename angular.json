@@ -26,8 +26,9 @@
             "assets": [
               "src/favicon.ico",
               "src/assets"
+              //, "data"
             ],
-            "styles": [
+              "styles": [
               "src/styles.scss"
             ],
             "scripts": []
@@ -103,5 +104,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f42cc35d-af40-4503-af48-327471125dd0"
   }
 }
